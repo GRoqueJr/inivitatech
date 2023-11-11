@@ -25,9 +25,9 @@ Api/LoremIpsumLogistica.sln
 - Marque o projeto LoremIpsumLogistica.UI.Api como sendo o Startup Project
 - Execute o Servidor
 
-Agora, vamos para o Site
+### Agora, vamos para o Site
 
-#Site
+# Site
 
 - Navegue até a pasta Site, mais interna no repositório que você clonou
 - clique com o botão direito, em seguida em Abrir terminal
