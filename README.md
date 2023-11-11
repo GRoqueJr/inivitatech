@@ -16,7 +16,7 @@ Api/LoremIpsumLogistica.sln
 }
 ```
 
-- Em favor da brevidade, não especifiquei um usuário para o banco de dados, embora isso seja altamente recomendado em um ambiente real;
+- ** Em favor da brevidade, não especifiquei um usuário para o banco de dados, embora isso seja altamente recomendado em um ambiente real; **
 - No menu superior do Visual Studio 2022 clique em tools -> Nuget Package Manager -> Package Manager Console
 - Altere o Default project para o repositório
 - Execute o comando Update-Database
