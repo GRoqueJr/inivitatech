@@ -1,6 +1,6 @@
 # invitatech
  
-#Após fazer o clone do projeto siga estes passos
+### Após fazer o clone do projeto siga estes passos
 
 # Servidor
 
