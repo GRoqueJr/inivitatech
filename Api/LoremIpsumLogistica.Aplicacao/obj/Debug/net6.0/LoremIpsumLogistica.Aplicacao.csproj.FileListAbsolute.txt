@@ -1,0 +1,15 @@
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\bin\Debug\net6.0\LoremIpsumLogistica.Aplicacao.deps.json
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\bin\Debug\net6.0\LoremIpsumLogistica.Aplicacao.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\bin\Debug\net6.0\LoremIpsumLogistica.Aplicacao.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\bin\Debug\net6.0\LoremIpsumLogistica.Dominio.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\bin\Debug\net6.0\LoremIpsumLogistica.Dominio.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.csproj.AssemblyReference.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.AssemblyInfoInputs.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.AssemblyInfo.cs
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.csproj.CopyComplete
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\refint\LoremIpsumLogistica.Aplicacao.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\LoremIpsumLogistica.Aplicacao.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Aplicacao\obj\Debug\net6.0\ref\LoremIpsumLogistica.Aplicacao.dll

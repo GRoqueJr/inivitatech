@@ -1,0 +1,17 @@
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Repositorios.deps.json
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Repositorios.runtimeconfig.json
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Repositorios.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Repositorios.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Dominio.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\bin\Debug\net6.0\LoremIpsumLogistica.Dominio.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.csproj.AssemblyReference.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.AssemblyInfoInputs.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.AssemblyInfo.cs
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.csproj.CoreCompileInputs.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.csproj.CopyComplete
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\refint\LoremIpsumLogistica.Repositorios.dll
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.pdb
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\LoremIpsumLogistica.Repositorios.genruntimeconfig.cache
+C:\Projetos\GrupoInvita\Api\LoremIpsumLogistica.Repositorios\obj\Debug\net6.0\ref\LoremIpsumLogistica.Repositorios.dll

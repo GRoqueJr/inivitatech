@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LoremIpsumLogistica.UI.Api.props" />
+</Project>

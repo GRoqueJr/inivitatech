@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoremIpsumLogistica.UI.Api</name>
+    </assembly>
+    <members>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesController.Cadastrar(LoremIpsumLogistica.UI.Api.Models.ClienteCadastroModel)">
+            <summary>
+            Cadastrar ou Editar um cliente
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesController.Excluir(System.Int32)">
+            <summary>
+            Remove um cliente, incluse remove também os endereços daquele cliente.
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um cliente
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Quando acontecer algum erro na requisicao</response>
+            <response code="404">Quando não encontrar o cliente</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesController.RecuperarTodos">
+            <summary>
+            Recupera uma coleção com todos os clientes da base
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesEnderecosController.Cadastrar(LoremIpsumLogistica.UI.Api.Models.ClienteEnderecoCadastroModel)">
+            <summary>
+            Cadastrar ou Edita um endereço do cliente
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesEnderecosController.Excluir(System.Int32)">
+            <summary>
+            Remove um endereço do cliente 
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesEnderecosController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um endereço do cliente
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Quando acontecer algum erro na requisicao</response>
+            <response code="404">Quando não encontrar o cliente</response>
+        </member>
+        <member name="M:LoremIpsumLogistica.UI.Api.Controllers.ClientesEnderecosController.RecuperarTodos(System.Int32)">
+            <summary>
+            Recupera uma coleção de endereços do cliente
+            </summary>
+            <response code="200">Sucesso!</response>
+            <response code="400">Caso haja algum problema com a requisição</response>
+        </member>
+    </members>
+</doc>
