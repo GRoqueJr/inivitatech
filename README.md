@@ -10,9 +10,11 @@ Api/LoremIpsumLogistica.sln
 - Em seguida, abra o arquivo appsettings.json se for rodar em debug lembre-se de alterar o appsettings.Development.json 
 - Faça os ajustes necessários na string de conexão
 
+'''
 "ConnectionStrings": {
 "DefaultConnection": "Server=<<APONTE PARA SUA BASE>>;Database=<<NOME DO SEU BANCO DE DADOS>>;Trusted_Connection=True;TrustServerCertificate=False;"
 }
+'''
 
 - Em favor da brevidade, não especifiquei um usuário para o banco de dados, embora isso seja altamente recomendado em um ambiente real;
 - No menu superior do Visual Studio 2022 clique em tools -> Nuget Package Manager -> Package Manager Console
